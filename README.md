@@ -31,8 +31,7 @@ This project automatically forwards threat indicators from a MISP instance on a 
 
 ## Results
 
-+ Successfully deployed and tested  
-+ Processes 40,000+ threat indicators per sync  
++ Successfully deployed and tested   
 + Automated sync every 2 hours via timer trigger  
 + Handles pagination for large datasets  
 
